@@ -57,8 +57,8 @@ This project covers **functional, negative, and security testing**, demonstratin
 
 Test cases were designed and executed using TestRail and Excel.
 
-📄 [Test Cases](taskboard/taskboard-test-cases(4).xlsx)  
-📄 [Test Run Results](taskboard/taskboard-testrun(4).xlsx)
+📄 [Test Cases](taskboard-test-cases(4).xlsx)  
+📄 [Test Run Results](taskboard-testrun(4).xlsx)
 
 The test run includes execution results (Pass/Fail) for functional and negative scenarios.
 
