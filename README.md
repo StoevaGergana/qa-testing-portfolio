@@ -1,4 +1,4 @@
-# QA API Testing Portfolio
+# QA Testing Portfolio
 
 Welcome to my QA Manual Testing Portfolio focused on API testing using Postman.  
 This repository demonstrates my skills in designing, executing, and organizing API test scenarios, including functional, negative, and security testing.
@@ -17,7 +17,7 @@ This repository demonstrates my skills in designing, executing, and organizing A
 
 ## 📂 Projects
 
-### 🔥 TaskBoard API TestSuite (Featured)
+### 🔥 TaskBoard (Featured)
 A project management system where users can create, update, and manage tasks across boards.
 
 ✔ Functional testing (positive & negative scenarios)  
