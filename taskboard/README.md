@@ -1,4 +1,4 @@
-# About TaskBoard API TestSuite
+# About TaskBoard 
 
 ## Project Overview
 TaskBoard is a project management application that allows users to create, update, move, and manage tasks across boards.  
