@@ -2,7 +2,7 @@
 
 ## Project Overview
 TaskBoard is a project management application that allows users to create, update, move, and manage tasks across boards.  
-This project covers **functional, negative, and security testing**, demonstrating a complete QA workflow.
+This project covers **functional testing, browser and responsive compatibility testing, and API testing using Postman**, demonstrating a complete QA workflow.
 
 **Deployed Application:**  
 [TaskBoard on Repl.it](https://replit.com/@StoevaGergana/TaskBoardV01#index.js)
@@ -57,8 +57,8 @@ This project covers **functional, negative, and security testing**, demonstratin
 
 Test cases were designed and executed using TestRail and Excel.
 
-📄 [Test Cases](taskboard-test-cases(4).xlsx)  
-📄 [Test Run Results](taskboard-testrun(4).xlsx)
+📄 [Test Cases](taskboard-test-cases(5).xlsx)  
+📄 [Test Run Results](taskboard-testrun(5).xlsx)
 
 The test run includes execution results (Pass/Fail) for functional and negative scenarios.
 
