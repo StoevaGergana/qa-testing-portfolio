@@ -1,8 +1,7 @@
 # QA Testing Portfolio
 
-Welcome to my QA Manual Testing Portfolio focused on API testing using Postman.  
-This repository demonstrates my skills in designing, executing, and organizing API test scenarios, including functional, negative, and security testing.
-
+Welcome to my Manual QA Testing Portfolio.
+This repository showcases my skills in functional testing, browser and responsive compatibility testing, and API testing using Postman. It includes well-structured test cases, test execution results, bug reports, and API collections, demonstrating a practical approach to manual software testing.
 ---
 
 ## 🔧 Tools & Technologies
